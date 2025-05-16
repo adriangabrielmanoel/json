@@ -1,0 +1,89 @@
+{
+    "users": [
+      {
+        "login": "adrianzin",
+        "id": 1,
+        "avatar_url": "https://avatars.githubusercontent.com/u/54721131?v=4",
+        "name": "debruyne",
+        "email": "kdb.mp@email.com",
+        "followers": 43444,
+        "following": 5455555555
+      },
+      {
+        "login": "fulan0",
+        "id": 2,
+        "avatar_url": "https://avatars.githubusercontent.com/u/9091491?v=4",
+        "name": "fulana da silva",
+        "email": "natalia@email.com",
+        "followers": 518,
+        "following": 7
+      },
+      {
+        "0": {
+          "login": "sorvetin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/54721131?v=4",
+          "name": "Tiao sorvetin",
+          "email": "sorvetin@email.com",
+          "followers": 463,
+          "following": 564
+        },
+        "id": "8fe5"
+      },
+      {
+        "0": {
+          "login": "cavaloo",
+          "avatar_url": "https://avatars.githubusercontent.com/u/54721131?v=4",
+          "name": "cavalo de troia",
+          "email": "cavalo de pau@email.com",
+          "followers": 9999993,
+          "following": 54
+        },
+        "id": "b6b0"
+      }
+    ],
+    "repos": [
+      {
+        "id": 2,
+        "name": "api-escolas",
+        "data": "1 de jan. de 2021",
+        "postId": 1
+      },
+      {
+        "id": 3,
+        "name": "Arduino_AVES_Telemetria",
+        "data": "1 de jan. de 2021",
+        "postId": 1
+      },
+      {
+        "id": 4,
+        "name": "bot_piano_tiles",
+        "data": "1 de jan. de 2021",
+        "postId": 1
+      },
+      {
+        "id": 1,
+        "name": "2048evolution",
+        "data": "1 de jan. de 2021",
+        "postId": 2
+      },
+      {
+        "id": 2,
+        "name": "alura-pikachu",
+        "data": "1 de jan. de 2021",
+        "postId": 2
+      },
+      {
+        "id": 3,
+        "name": "alura-react-native-comecando-do-zero",
+        "data": "1 de jan. de 2021",
+        "postId": 2
+      },
+      {
+        "id": 5,
+        "name": "Alura_cursos",
+        "data": "1 de jan. de 2021",
+        "postId": 1
+      }
+    ]
+  }
+  
